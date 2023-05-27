@@ -9,7 +9,7 @@
     width: 100%;
     height: 12vh;
     padding-top: 10px;
-    background: #076d99;
+    background:#0e2128;
     z-index: 100;
     font-family: "Roboto", sans-serif;
   }
@@ -37,8 +37,8 @@
     gap: 30px;
   }
   .nav-Logo {
-    color: #35300a;
-    font-size: 2rem;
+    color: #e38808;
+    font-size: 1.7rem;
   }
   .nav-link:hover {
     border-bottom: 3px solid;
@@ -64,7 +64,7 @@
     height: 50vh;
     margin-top: 20%;
     color: #fff;
-    background: #092b3a;
+    background: #0d2028;
   }
   .footer-info_1 {
     padding-top: 20px;
@@ -95,7 +95,7 @@
     height: 4vh;
   }
   button {
-    background-color: #eed620;
+    background-color:  #e38808;
     width: 10rem;
     height: 4vh;
     padding: 4px;
@@ -113,8 +113,8 @@
     color: #fff;
     text-align: center;
     padding: 30px;
-    background-color: #09749f;
-    border-top: 2px solid #eed620;
+    background-color: #0e2128;
+    border-top: 2px solid #e38808;
   }
   /*************** Responsive *******************/
   /* menu burger*/
